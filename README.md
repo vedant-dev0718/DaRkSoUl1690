@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaRkSoUl1690
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning app development
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on different repositories
 - 📫 How to reach me by my mail (tiwarivedant.1690@gmail.com)
 
 <!---
