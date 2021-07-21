@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaRkSoUl1690
+- 👋 Hi, I’m Vedant Tiwari
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on different repositories
