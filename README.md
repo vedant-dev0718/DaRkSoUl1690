@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedant Tiwari
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning app development
+- 👀 I’m interested in app development and competitive programming
+- 🌱 I’m currently learning app development and competitive programming
 - 💞️ I’m looking to collaborate on different repositories
 - 📫 How to reach me by my mail (tiwarivedant.1690@gmail.com)
 
