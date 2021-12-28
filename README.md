@@ -32,7 +32,6 @@
 
 - 💞️ I’m looking to collaborate on different repositories.
 
--
 <!--  -->
 
 </p>
