@@ -41,12 +41,12 @@
 ### - Languages and Tools:
 
 <p align="center">
-  <img src="https://reactnative.dev/img/header_logo.svg"  width="40" height="40" alt="ReactNative" style="vertical-align:top; margin:4px">
+<!--   <img src="https://reactnative.dev/img/header_logo.svg"  width="40" height="40" alt="ReactNative" style="vertical-align:top; margin:4px"> -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"   alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="40" alt="Mysql" style="vertical-align:top; margin:4px">
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="50" height="40" alt="Mysql" style="vertical-align:top; margin:4px"> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="gits" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/codechef.svg"  alt="CodeChef" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" width="40" height="40" alt="gits" style="vertical-align:top; margin:4px">
+<!--   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/codechef.svg"  alt="CodeChef" style="vertical-align:top; margin:4px"> -->
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio_colour.svg" alt="Android Studio" style="vertical-align:top; margin:4px"></p>
    <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  width="40" height="40" alt="c++" style="vertical-align:top; margin:4px">
