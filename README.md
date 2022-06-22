@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/vedant-tiwari-778b6121a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linedin.com/in/vedant-tiwari-778b6121a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/vedant.690/"><img height="30" src="https://gist.githubusercontent.com/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg"></a>&nbsp;&nbsp;
        <a href="mailto: tiwarivedant.1690@gmail.com"><img height="30" src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667"></a>&nbsp;&nbsp;
 
