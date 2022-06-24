@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm Vedant Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DaRkSoUl1690&label=Profile%20views&color=0e75b6&style=flat" alt="DaRkSoUl1690" /> </p>
 <p align='center'>
    <a href="https://www.linedin.com/in/vedant-tiwari-778b6121a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/vedant.690/"><img height="30" src="https://gist.githubusercontent.com/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg"></a>&nbsp;&nbsp;
