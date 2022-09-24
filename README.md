@@ -45,13 +45,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
  
 </p>
-
-### - Github Stats:
-
-<h1 align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkSoUl1690&htitle_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-      <img src="https://github-readme-stats.vercel.app/api?username=DaRkSoUl1690&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  </h1> 
 </a>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
